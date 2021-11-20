@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Patch Management',
   tagline: 'Patch Management Automation for everywhere',
-  url: ' https://sayanmondal2098.github.io/',
+  url: 'https://sayanmondal2098.github.io/',
   baseUrl: '/PatchDocs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'ph3n1x', // Usually your GitHub org/user name.
-  projectName: 'PatchDocs', // Usually your repo name.
+  organizationName: 'facebook', // Usually your GitHub org/user name.
+  projectName: 'docusaurus', // Usually your repo name.
 
   presets: [
     [
@@ -24,13 +24,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/sayanmondal2098/PatchDocs',
+          editUrl: 'https://sayanmondal2098.github.io/PatchDocs/blog',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://sayanmondal2098.github.io/PatchDocs/blog',
+            'https://sayanmondal2098.github.io/PatchDocs/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -43,9 +43,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Patch Management',
+        title: 'My Site',
         logo: {
-          alt: 'Patch Managements',
+          alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -101,12 +101,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/sayanmondal209/PatchDocs',
+                href: 'https://github.com/sayanmondal2098',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} PatchManagement, Inc. Built with <3.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Patch Management, Inc. Built with Love.`,
       },
       prism: {
         theme: lightCodeTheme,

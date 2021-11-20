@@ -1,11 +1,12 @@
 ---
 slug: welcome
 title: Welcome
-authors: [slorber, yangshun]
-tags: [patch, hello, welcome]
+authors: [sayan, sayan1]
+tags: [facebook, hello, docusaurus]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+Welcome to Patch Management.
+This is our first Post.From today,we'll start working on the project from today - 20th Nov, 2021.
 
 Simply add Markdown files (or folders) to the `blog` directory.
 
@@ -16,10 +17,7 @@ The blog post date can be extracted from filenames, such as:
 - `2019-05-30-welcome.md`
 - `2019-05-30-welcome/index.md`
 
-A blog post folder can be convenient to co-locate blog post images:
 
 ![Docusaurus Plushie](./docusaurus-plushie-banner.png)
 
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+Thank You Everyone.
