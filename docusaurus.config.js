@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Patch Management',
+  tagline: 'Patch Management Automation for everywhere',
   url: ' https://sayanmondal2098.github.io/',
   baseUrl: '/PatchDocs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'ph3n1x', // Usually your GitHub org/user name.
+  projectName: 'PatchDocs', // Usually your repo name.
 
   presets: [
     [
@@ -43,9 +43,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Patch Management',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Patch Managements',
           src: 'img/logo.svg',
         },
         items: [
@@ -106,7 +106,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} PatchManagement, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} PatchManagement, Inc. Built with <3.`,
       },
       prism: {
         theme: lightCodeTheme,
