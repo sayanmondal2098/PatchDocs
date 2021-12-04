@@ -2,7 +2,7 @@
 slug: welcome
 title: Welcome
 authors: [sayan, sayan1]
-tags: [facebook, hello, docusaurus]
+tags: [patch management, hello, welcome]
 ---
 
 Welcome to Patch Management.
