@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpatch_docs=self.webpackChunkpatch_docs||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"The Architecture and Idea","permalink":"/PatchDocs/blog/Architecture and Idea"},{"title":"Welcome","permalink":"/PatchDocs/blog/welcome"}]}')}}]);

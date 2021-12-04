@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpatch_docs=self.webpackChunkpatch_docs||[]).push([[738],{2052:function(a){a.exports=JSON.parse('{"allTagsPath":"/PatchDocs/blog/tags","slug":"/PatchDocs/blog/tags/idea","name":"idea","count":1,"permalink":"/PatchDocs/blog/tags/idea"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpatch_docs=self.webpackChunkpatch_docs||[]).push([[442],{4931:function(c){c.exports=JSON.parse('{"allTagsPath":"/PatchDocs/blog/tags","slug":"/PatchDocs/blog/tags/project-overviiew","name":"Project Overviiew","count":1,"permalink":"/PatchDocs/blog/tags/project-overviiew"}')}}]);

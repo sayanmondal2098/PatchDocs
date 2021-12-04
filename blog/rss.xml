@@ -4,9 +4,18 @@
         <title>Patch Management Blog</title>
         <link>https://sayanmondal2098.github.io/PatchDocs/blog</link>
         <description>Patch Management Blog</description>
-        <lastBuildDate>Sat, 20 Nov 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Architecture and Idea]]></title>
+            <link>https://sayanmondal2098.github.io/PatchDocs/blog/Architecture and Idea</link>
+            <guid>Architecture and Idea</guid>
+            <pubDate>Sat, 04 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[The MVP Design]]></description>
+            <content:encoded><![CDATA[<h2>The MVP Design</h2><p>The MVP should contain basic feature of the full project.</p><h2>The Execution</h2><h3>Server Model</h3><ul><li>Implementation of the Communication Tunnel </li><li>Able to recive the clients sended request and send cmd to client </li><li>Need to implement the MQTT </li><li>Web View/Interface , In the view , should able to monitor all of the clients </li><li>Send cmd from webview</li><li>Maintain and Create the SSH </li><li>File Server</li><li>Get Client Jobs and all </li><li>PGP Connect etc.</li></ul><h4>Client Model</h4><ul><li>Connect with a particular server </li><li>Recive cmd from the server </li><li>Send device info and others in the tunnel </li><li>Device Admin </li><li>Shell access</li><li>Remote Management</li><li>Contnious Health Check etc.</li></ul><h4>TechStack</h4><ul><li>The Node Server </li></ul><p>More Features are added in trello,
+To be added in Server /Client please fill the form : <a href="https://forms.gle/MiiH2t1eQ7F6FdmaA">Google Form Link</a></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://sayanmondal2098.github.io/PatchDocs/blog/welcome</link>

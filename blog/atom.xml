@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sayanmondal2098.github.io/PatchDocs/blog</id>
     <title>Patch Management Blog</title>
-    <updated>2021-11-20T00:00:00.000Z</updated>
+    <updated>2021-12-04T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sayanmondal2098.github.io/PatchDocs/blog"/>
     <subtitle>Patch Management Blog</subtitle>
     <icon>https://sayanmondal2098.github.io/PatchDocs/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Architecture and Idea]]></title>
+        <id>Architecture and Idea</id>
+        <link href="https://sayanmondal2098.github.io/PatchDocs/blog/Architecture and Idea"/>
+        <updated>2021-12-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The MVP Design]]></summary>
+        <content type="html"><![CDATA[<h2>The MVP Design</h2><p>The MVP should contain basic feature of the full project.</p><h2>The Execution</h2><h3>Server Model</h3><ul><li>Implementation of the Communication Tunnel </li><li>Able to recive the clients sended request and send cmd to client </li><li>Need to implement the MQTT </li><li>Web View/Interface , In the view , should able to monitor all of the clients </li><li>Send cmd from webview</li><li>Maintain and Create the SSH </li><li>File Server</li><li>Get Client Jobs and all </li><li>PGP Connect etc.</li></ul><h4>Client Model</h4><ul><li>Connect with a particular server </li><li>Recive cmd from the server </li><li>Send device info and others in the tunnel </li><li>Device Admin </li><li>Shell access</li><li>Remote Management</li><li>Contnious Health Check etc.</li></ul><h4>TechStack</h4><ul><li>The Node Server </li></ul><p>More Features are added in trello,
+To be added in Server /Client please fill the form : <a href="https://forms.gle/MiiH2t1eQ7F6FdmaA">Google Form Link</a></p>]]></content>
+        <author>
+            <name>Sayan Mondal</name>
+            <uri>https://github.com/sayanmondal2098</uri>
+        </author>
+        <author>
+            <name>Sayan Mondal</name>
+            <uri>https://github.com/sayanmondal2098</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
