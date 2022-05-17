@@ -24,7 +24,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://sayanmondal2098.github.io/PatchDocs/blog',
+          editUrl: 'https://sayanmondal2098.github.io/PatchDocs/docs',
         },
         blog: {
           showReadingTime: true,
