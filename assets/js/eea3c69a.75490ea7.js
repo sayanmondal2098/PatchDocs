@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpatch_docs=self.webpackChunkpatch_docs||[]).push([[341],{7063:function(s){s.exports=JSON.parse('{"allTagsPath":"/PatchDocs/blog/tags","slug":"/PatchDocs/blog/tags/universal-client","name":"Universal Client","count":1,"permalink":"/PatchDocs/blog/tags/universal-client"}')}}]);
