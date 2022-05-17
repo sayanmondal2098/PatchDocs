@@ -1,12 +1,12 @@
 ---
 
-slug: Architecture and Idea
+slug:  April'22 Project Update
 
-title: The Architecture and Idea
+title: The beginning of Dashboard design and Univerval Client 
 
 authors: [sayan, sayan1]
 
-tags: [patch management, MVP, idea, Project Overviiew, Overview]
+tags: [patch management, MVP, Dashboard, Universal Client, Client, Overview]
 
 ---
 
